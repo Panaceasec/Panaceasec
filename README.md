@@ -23,8 +23,3 @@ Welcome to my Github page! I am Panacea and I am a Senior Student |   Cyber Secu
 - Improve Programming Skills
 
 
-
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=panacea-6&show_icons=true&hide_border=true" />
-
-
-
