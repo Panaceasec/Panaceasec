@@ -3,7 +3,6 @@
 **知其黑守其白 | 永远活在自己的热爱里**
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/panacea-6)
-[![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nicezy410@163.com)
 [![Blog](https://img.shields.io/website?url=https%3A%2F%2Fpanaceasec.cn)](https://panaceasec.cn/)
 
 
