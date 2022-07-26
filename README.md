@@ -9,7 +9,7 @@
 
 Welcome to my Github page! I am Panacea and I am a Senior Student |   Cyber Security Enthusiast
 
-<img align="right" alt="img" src="https://s2.loli.net/2022/07/26/vYaowT6PzInDFEB.jpg" width="30%" height="30%" />
+<img align="right" alt="img" src="https://s2.loli.net/2022/07/26/vmqg4JakGiN8b2K.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
@@ -17,8 +17,7 @@ Welcome to my Github page! I am Panacea and I am a Senior Student |   Cyber Secu
 - Find a Satisfying Job
 - Ongoing Research On Web Security 
 - Learn Intranet Security
-- Share Study Notes[![Blog]](https://panaceasec.cn/)
-
+- Share Study Notes[Blog](https://panaceasec.cn/)
 
 #### 💪 Things I am challenging myself with:
 - Waking up earlier to make good use of the day
