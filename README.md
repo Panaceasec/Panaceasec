@@ -13,7 +13,6 @@ Welcome to my Github page! I am Panacea and I am a Senior Student |   Cyber Secu
 
 #### 🌱 Things I am currently working on: 
 - Successfully Graduated  🚀 *coming soon*
-- Find a Satisfying Job
 - Ongoing Research On Web Security 
 - Learn Intranet Security
 - Share Study Notes[Blog](https://panaceasec.cn/)
