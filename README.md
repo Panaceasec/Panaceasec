@@ -2,7 +2,7 @@
 ### This is Panacea
 **知其黑守其白 | 永远活在自己的热爱里**
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](http://47.121.194.109:8001//)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Panaceasec/)
 [![Blog](https://img.shields.io/website?url=https%3A%2F%2Fpanaceasec.cn)](http://47.121.194.109:8001//)
 
 
